@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.ul-container {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.home-link{
+    margin-right: 20px;
+}
